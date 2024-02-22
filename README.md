@@ -27,7 +27,9 @@ It consists of four datasets namely:
 ## Data Transformation/data cleaning
 The underscore for the column header was removed. The first row of the pizza types dataset was promoted as row header.
 
-
+Pizza types before cleaning            |          Pizza types after cleaning
+:-------------------------------------:|:----------------------------------------:|
+![](Pizza_types_b4_cleaning.png)       |  ![](Pizza_types_after_cleaning.png)
 
 
 
