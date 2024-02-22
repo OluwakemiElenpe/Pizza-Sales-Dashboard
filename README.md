@@ -70,7 +70,9 @@ Relationship was created within the five datasets.
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
 ## Analysis
-The average number of customer in a day is 60. The peak hour is between 12 - 3pm respectively
+The store has a total number of 21,350 orders.
+The average number of customer in a day is 60.
+The peak hour is between 12 - 3pm respectively.
 
 Average number of customer             |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
@@ -82,13 +84,17 @@ Pizza in an order                      |          Best Seller
 :-------------------------------------:|:------------------------------------------------:|
 ![](pizza_no.png)                      |   ![](Top_5_pizzas.png)
 
-The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total order of 1,936.
+The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total order of 1,936
 
 ![](Sales_by_month_year.png)
 
 The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, The Mediterranean Pizza with 15,361, The Spanish Supreme Pizza with 15,278, The Green Garden Pizza with 13,956, and The Brie Carre Pizza with 11,588. 
 
 ![](Buttom_5_pizzas.png)
+
+Sales by category:
+The highest category was Classic followed by 
+
 
 
 
