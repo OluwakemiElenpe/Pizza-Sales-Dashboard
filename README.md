@@ -46,6 +46,13 @@ Order before cleaning                  |          Order after cleaning
 
 The datatype for each column header was checked and edited as appropriate. Null value was checked for each column header by checking the column quality. If the valid of each column is less than 100% it means that the row contains Null value. But for the four datasets all the valid values were 100% it means that there is no missing or Null value.
 
+New measures were created to calculate the total sales, Orders, Average orders in a day, Avg pizzas in an order respectively.
+
+Total Sales                  |          Order after cleaning
+:-------------------------------------:|:------------------------------------------------:|
+![](Order_b4_cleaning.png)             |   ![](Order_after_cleaning.png)
+
+
 ## Data Modelling
 
 Date table was created using the below code:
@@ -56,6 +63,8 @@ Relationship was created within the five datasets.
 
 ![](Data_Model.png)
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
+
+
 
 
 
