@@ -3,7 +3,7 @@
 ![](Pizza.jpg)
 
 ## Introduction
-This is a power BI project on sales analysis of an imaginary store called **Boston Pizza**. The project is to analyze and derive insights to answer crutial questions and help the store make data driven decisions.
+This is a power BI project on sales analysis of an imaginary store called **Boston Pizza**. It is a year worth of sales from a fictitious pizza place. The project is to analyze and derive insights to answer crutial questions and help the store make data driven decisions.
 
 _*Disclimer_*: All datasets and reports do not represent any company or store. 
 
