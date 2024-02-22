@@ -48,9 +48,9 @@ The datatype for each column header was checked and edited as appropriate. Null 
 
 New measures were created to calculate the total sales, Orders, Average orders in a day, Avg pizzas in an order respectively.
 
-Total Sales                  |          Order after cleaning
+Total Sales                            |          Order after cleaning
 :-------------------------------------:|:------------------------------------------------:|
-![](Order_b4_cleaning.png)             |   ![](Order_after_cleaning.png)
+![](Total_sales.png)                   |   ![](Orders.png)
 
 
 ## Data Modelling
