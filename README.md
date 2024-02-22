@@ -15,4 +15,9 @@ _*Disclimer_*: _*All datasets and reports do not represent any company or store.
 4.  Are there any pizzas we should take of the menu, or any promotions we could leverage?
 
 ## Data gathering
-The dataset was downloaded on maven analytics website. Here is the link to the [dataset](https://www.mavenanalytics.io/data-playground?dataStructure=2lXwWbWANQgI727tVx3DRC&search=pizza)
+The dataset was downloaded on Maven Analytics website. Here is the link to the [dataset](https://www.mavenanalytics.io/data-playground?dataStructure=2lXwWbWANQgI727tVx3DRC&search=pizza)
+It consists of four datasets namely:
+- Orders
+- Order_details
+- Pizzas
+- Pizza_types
