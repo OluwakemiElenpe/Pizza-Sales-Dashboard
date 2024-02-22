@@ -48,6 +48,10 @@ The datatype for each column header was checked and edited as appropriate. Null 
 
 ## Data Modeling
 
+Date table was created using the below code:
+
+![](Data_Model.png)
+
 Relationship was created within the five datasets. 
 
 ![](Data_Model.png)
