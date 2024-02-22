@@ -84,7 +84,7 @@ Pizza in an order                      |          Best Seller
 :-------------------------------------:|:------------------------------------------------:|
 ![](pizza_no.png)                      |   ![](Top_5_pizzas.png)
 
-The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total order of 1,936
+The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
 ![](Sales_by_month_year.png)
 
