@@ -78,6 +78,9 @@ Average number of customer             |          Peak Hour
 
 The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434.
 
+Pizza in an order                      |          Peak Hour
+:-------------------------------------:|:------------------------------------------------:|
+![](pizza_no.png)             |   ![](Top_5_pizzas.png)
 
 
 
