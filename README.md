@@ -53,6 +53,11 @@ Total Sales                            |          Order after cleaning
 ![](Total_sales.png)                   |   ![](Orders.png)
 
 
+Average Order in a day                      |          Average Pizzas in a day
+:------------------------------------------:|:------------------------------------------------:|
+![](Avg_Order_day.png)                      |   ![](Avg_Pizzas_Order.png)
+
+
 ## Data Modelling
 
 Date table was created using the below code:
