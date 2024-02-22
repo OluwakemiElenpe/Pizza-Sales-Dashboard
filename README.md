@@ -96,7 +96,7 @@ Sales by category:
 The highest category was Classic with total sales of $220,000.
 
 ## Conclusion
-
+Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales.
 
 ## Recommendation
 For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision.
