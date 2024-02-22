@@ -1,6 +1,6 @@
 # Boston Pizza Sales Analysis
 
-![](Spotify_dataset.JPG)
+![](Pizza.jpg)
 ## Scope and Limitation
 
 [Spotify tracks](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
