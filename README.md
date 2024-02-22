@@ -69,14 +69,14 @@ Relationship was created within the five datasets.
 ![](Data_Model.png)
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
-Analysis
+## Analysis
 The average number of customer in a day is 60. The peak hour is between 12 - 3pm respectively
 
 Average number of customer             |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Average_Order.png)             |   ![](Time_slot.png)
 
-
+The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434 
 
 
 
