@@ -69,6 +69,9 @@ Relationship was created within the five datasets.
 ![](Data_Model.png)
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
+Analysis
+The average number of customer in a day are two customers. The peak hour is between 12 - 3pm respectively
+
 
 
 
