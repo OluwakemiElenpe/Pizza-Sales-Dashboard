@@ -11,7 +11,7 @@ _*Disclimer_*: _*All datasets and reports do not represent any company or store.
 1.	How many customers do we have each day? Are there any peak hours?
 2.	How many pizzas are typically in an order? Do we have any bestsellers?
 3.	How much money did we make this year? Can we indentify any seasonality in the sales?
-4.  Are there any pizzas we should take of the menu, or any promotions we could leverage?
+4. Are there any pizzas we should take of the menu, or any promotions we could leverage?
 
 ## Skills demostrated
 The following Power BI features were incorporated: Data cleaning, Bookmarking, DAX, Modelling, Filters.
@@ -81,6 +81,9 @@ The amount of pizzas typically in an order is two. The best seller is the Thia c
 Pizza in an order                      |          Best Seller
 :-------------------------------------:|:------------------------------------------------:|
 ![](pizza_no.png)                      |   ![](Top_5_pizzas.png)
+
+The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total order of 1,936.
+
 
 
 
