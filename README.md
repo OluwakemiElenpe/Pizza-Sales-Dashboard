@@ -48,7 +48,7 @@ The datatype for each column header was checked and edited as appropriate. Null 
 
 New measures were created to calculate the total sales, Orders, Average orders in a day, Avg pizzas in an order respectively.
 
-Total Sales                            |          Order after cleaning
+Total Sales                            |          Orders
 :-------------------------------------:|:------------------------------------------------:|
 ![](Total_sales.png)                   |   ![](Orders.png)
 
@@ -70,7 +70,11 @@ Relationship was created within the five datasets.
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
 Analysis
-The average number of customer in a day are two customers. The peak hour is between 12 - 3pm respectively
+The average number of customer in a day is 60. The peak hour is between 12 - 3pm respectively
+
+Average number of customer             |          Peak Hour
+:-------------------------------------:|:------------------------------------------------:|
+![](Average_Order.png)             |   ![](Time_slot.png)
 
 
 
