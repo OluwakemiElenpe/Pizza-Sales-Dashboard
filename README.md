@@ -93,7 +93,7 @@ The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, T
 ![](Buttom_5_pizzas.png)
 
 Sales by category:
-The highest category was Classic followed by 
+The highest category was Classic with total sales of $220,000.
 
 
 
