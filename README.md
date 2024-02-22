@@ -31,8 +31,9 @@ Pizza types before cleaning            |          Pizza types after cleaning
 :-------------------------------------:|:----------------------------------------:|
 ![](Pizza_types_b4_cleaning.png)       |  ![](Pizza_types_after_cleaning.png)
 
-
-
+Pizza before cleaning                  |          Pizza after cleaning
+:-------------------------------------:|:----------------------------------------:|
+![](Pizza_b4_cleaning.png)              |   ![](Pizza_after_cleaning.png)
 
 
 
