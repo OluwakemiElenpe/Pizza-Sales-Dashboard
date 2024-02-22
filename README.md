@@ -86,8 +86,9 @@ The total sales is 817,860. The suggested seasonality period will be the month o
 
 ![](Sales_by_month_year.png)
 
+The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, The Mediterranean Pizza with 15,361, The Spanish Supreme Pizza with 15,278, The Green Garden Pizza with 13,956, and The Brie Carre Pizza with 11,588. 
 
-
+![](Buttom_5_pizzas.png)
 
 
 
