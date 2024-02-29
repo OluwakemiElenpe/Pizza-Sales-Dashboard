@@ -74,9 +74,9 @@ The store has a total number of 21,350 orders.
 The average number of customer in a day is 60.
 The peak hour is between 12 - 3pm respectively.
 
-Average number of customer             |          Peak Hour
+Average number of customer             |         Average Pizza in an order
 :-------------------------------------:|:------------------------------------------------:|
-![](Average_Order.png)                 |   ![](Time_slot.png)
+![](Average_Order.png)                 |   ![](pizza_no.png)
 
 The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434.
 
@@ -90,8 +90,7 @@ Average number of customer             |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Average_Order.png)                 |   ![](Time_slot.png)
 
-Pizza in an order
-![](pizza_no.png)  
+  
 The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
 ![](Sales_by_month_year.png)
