@@ -93,10 +93,15 @@ Sales by Month and Year                |          Peak Hour
   
 The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
-![](Sales_by_month_year.png)
+Sales by Day                           |          Sales by Size
+:-------------------------------------:|:------------------------------------------------:|
+![](Sales_by_day.png)                  |   ![](Sales_size.png)
 
-Average number of customer
-![](Average_Order.png
+
+Sales by Category                      |         
+:-------------------------------------:|
+![](Sales_Category.png)                |   
+
 The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, The Mediterranean Pizza with 15,361, The Spanish Supreme Pizza with 15,278, The Green Garden Pizza with 13,956, and The Brie Carre Pizza with 11,588. 
 
 
