@@ -70,28 +70,25 @@ Relationship was created within the five datasets.
 The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
 ## Analysis
-The store has a total number of 21,350 orders.
-The average number of customer in a day is 60.
-The peak hour is between 12 - 3pm respectively.
 
 Average number of customer             |         Average Pizza in an order
 :-------------------------------------:|:------------------------------------------------:|
 ![](Average_Order.png)                 |   ![](pizza_no.png)
 
-The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434.
+The store has a total number of 21,350 orders and the total is $817,860.
+The average order in a day is 60 this implies that the average number of customer in a day is 60. The amount of pizzas typically in an order is two.
 
 Best Seller                            |          Least Seller
 :-------------------------------------:|:------------------------------------------------:|
 ![](Top_5_pizzas.png)                  |   ![](Buttom_5_pizzas.png)
 
-
+The best seller is the Thia chicken pizza with the total sales of $43,434 while the least pizza is The Brie Carre Pizza with total sales of $11,588 
 
 Sales by Month and Year                |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Sales_by_month_year.png)           |   ![](Time_slot.png)
-
+The sales shows an up and downward movement it means that the sales wasn't stable over a long period of time. But the month of July has the highest sales of $72,600. The peak hour is between 12 - 3pm.
   
-The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
 Sales by Day                           |          Sales by Size
 :-------------------------------------:|:------------------------------------------------:|
@@ -110,7 +107,7 @@ Sales by category:
 The highest category was Classic with total sales of $220,000.
 
 ## Conclusion
-Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
+The suggested seasonality period will be the month of July where we have the total sales of $72,000. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
 
 ## Recommendation
 For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision.
