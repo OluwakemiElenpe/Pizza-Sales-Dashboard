@@ -80,10 +80,12 @@ Average number of customer             |          Peak Hour
 
 The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434.
 
-Pizza in an order                      |          Best Seller
+Best Seller                            |          Least Seller
 :-------------------------------------:|:------------------------------------------------:|
-![](Buttom_5_pizzas.png)               |   ![](Top_5_pizzas.png)
+![](Top_5_pizzas.png)                  |   ![](Buttom_5_pizzas.png)
 
+
+Pizza in an order
 ![](pizza_no.png)  
 The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
