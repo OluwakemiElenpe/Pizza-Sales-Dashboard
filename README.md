@@ -88,7 +88,7 @@ Sales by Month and Year                |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Sales_by_month_year.png)           |   ![](Time_slot.png)
 
-The sales shows an up and downward movement it means that the sales wasn't stable throughtout. But the month of July has the highest sales of $72,600. 
+The sales shows an up and downward movement it means that the sales wasn't stable throughtout the year. But the month of July has the highest sales of $72,600. 
 The peak hour is between 12 - 3pm.
   
 
@@ -105,7 +105,7 @@ Sales by Category                      |
 The highest sales by category is Classic with total sales of $220,000.
 
 ## Conclusion
-The suggested seasonality period will be the month of July where we have the total sales of $72,000. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
+The suggested seasonality period will be the month of July where we have the total sales of $72,000, though further investigation will reveal if there is a special event that occurs in that month. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
 
 ## Recommendation
 For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision.
