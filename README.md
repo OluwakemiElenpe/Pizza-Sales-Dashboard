@@ -96,17 +96,13 @@ Sales by Day                           |          Sales by Size
 :-------------------------------------:|:------------------------------------------------:|
 ![](Sales_by_day.png)                  |   ![](Sales_size.png)
 
+The highest sales of the week is on Friday with total sales of $136,074. The highest sales by size is Large with total sales of $375,319
 
 Sales by Category                      |         
 :-------------------------------------:|
 ![](Sales_Category.png)                |   
 
-The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, The Mediterranean Pizza with 15,361, The Spanish Supreme Pizza with 15,278, The Green Garden Pizza with 13,956, and The Brie Carre Pizza with 11,588. 
-
-
-
-Sales by category:
-The highest category was Classic with total sales of $220,000.
+The highest sales by category is Classic with total sales of $220,000.
 
 ## Conclusion
 The suggested seasonality period will be the month of July where we have the total sales of $72,000. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
