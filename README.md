@@ -104,6 +104,8 @@ Sales by Category                      |
 
 The highest sales by category is Classic with total sales of $220,000.
 
+![](Dashboard.png) 
+
 ## Conclusion
 The suggested seasonality period will be the month of July where we have the total sales of $72,000, though further investigation will reveal if there is a special event that occurs in that month. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
 
