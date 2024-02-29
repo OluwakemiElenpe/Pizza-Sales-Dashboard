@@ -87,7 +87,9 @@ The best seller is the Thia chicken pizza with the total sales of $43,434 while 
 Sales by Month and Year                |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Sales_by_month_year.png)           |   ![](Time_slot.png)
-The sales shows an up and downward movement it means that the sales wasn't stable over a long period of time. But the month of July has the highest sales of $72,600. The peak hour is between 12 - 3pm.
+
+The sales shows an up and downward movement it means that the sales wasn't stable throughtout. But the month of July has the highest sales of $72,600. 
+The peak hour is between 12 - 3pm.
   
 
 Sales by Day                           |          Sales by Size
