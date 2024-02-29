@@ -85,6 +85,11 @@ Best Seller                            |          Least Seller
 ![](Top_5_pizzas.png)                  |   ![](Buttom_5_pizzas.png)
 
 
+
+Average number of customer             |          Peak Hour
+:-------------------------------------:|:------------------------------------------------:|
+![](Average_Order.png)                 |   ![](Time_slot.png)
+
 Pizza in an order
 ![](pizza_no.png)  
 The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
