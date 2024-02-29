@@ -76,7 +76,7 @@ The peak hour is between 12 - 3pm respectively.
 
 Average number of customer             |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
-![](Average_Order.png)             |   ![](Time_slot.png)
+![](Average_Order.png)                    ![](Time_slot.png)
 
 The amount of pizzas typically in an order is two. The best seller is the Thia chicken pizza with the total sales of 43,434.
 
