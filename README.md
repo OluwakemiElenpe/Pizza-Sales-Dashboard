@@ -82,21 +82,22 @@ The amount of pizzas typically in an order is two. The best seller is the Thia c
 
 Pizza in an order                      |          Best Seller
 :-------------------------------------:|:------------------------------------------------:|
-![](pizza_no.png)                      |   ![](Top_5_pizzas.png)
+![](Buttom_5_pizzas.png)               |   ![](Top_5_pizzas.png)
 
+![](pizza_no.png)  
 The total sales is 817,860. The suggested seasonality period will be the month of July where we have the total sales of $72,000.
 
 ![](Sales_by_month_year.png)
 
 The least five pizzas based on sales are: The Spanach Pesto Pizza with 15,596, The Mediterranean Pizza with 15,361, The Spanish Supreme Pizza with 15,278, The Green Garden Pizza with 13,956, and The Brie Carre Pizza with 11,588. 
 
-![](Buttom_5_pizzas.png)
+
 
 Sales by category:
 The highest category was Classic with total sales of $220,000.
 
 ## Conclusion
-Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales.
+Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
 
 ## Recommendation
 For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision.
