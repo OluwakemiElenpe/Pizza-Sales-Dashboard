@@ -67,7 +67,7 @@ Date table was created using the below code:
 Relationship was created within the five datasets. 
 
 ![](Data_Model.png)
-The model is a star schema. There are 4-dimention tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
+The model is a star schema. There are 4-dimension tables and 1 fact table. Order details is the fact table because it contains the quantitative data being analyzed.
 
 ## Analysis
 
