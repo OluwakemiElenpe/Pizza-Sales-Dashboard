@@ -86,7 +86,7 @@ Best Seller                            |          Least Seller
 
 
 
-Average number of customer             |          Peak Hour
+Sales by Month and Year                |          Peak Hour
 :-------------------------------------:|:------------------------------------------------:|
 ![](Sales_by_month_year.png)           |   ![](Time_slot.png)
 
