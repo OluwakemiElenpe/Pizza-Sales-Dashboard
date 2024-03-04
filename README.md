@@ -104,6 +104,10 @@ Sales by Category                      |
 
 The highest sales by category is Classic with total sales of $220,000.
 
+
+To assist the decision making process, the sales managers can view the [interactive sales dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA5ZTMyYmYtYzYxMS00MzVkLTk1ZTMtZmM5ZWQyNjM4Y2ExIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9) which consists of an overview page focusing on customer data and product data over time.
+
+
 [![](https://github.com/OluwakemiOretade/Pizza-Sales-Dashboard/blob/main/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzA5ZTMyYmYtYzYxMS00MzVkLTk1ZTMtZmM5ZWQyNjM4Y2ExIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9)
 
 
