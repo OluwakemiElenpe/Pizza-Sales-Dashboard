@@ -104,7 +104,7 @@ Sales by Category                      |
 
 The highest sales by category is Classic with total sales of $220,000.
 
-[![](https://github.com/OluwakemiOretade/Pizza-Sales-Dashboard/blob/main/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzA5ZTMyYmYtYzYxMS00MzVkLTk1ZTMtZmM5ZWQyNjM4Y2ExIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9)
+[![](https://github.com/OluwakemiOretade/Pizza-Sales-Dashboard/blob/main/Dashboard.png)](https://app.powerbi.com/viewr=eyJrIjoiYzA5ZTMyYmYtYzYxMS00MzVkLTk1ZTMtZmM5ZWQyNjM4Y2ExIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9)
 
 ![](Dashboard.png) 
 
