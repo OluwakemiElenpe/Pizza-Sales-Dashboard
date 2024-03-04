@@ -106,9 +106,6 @@ The highest sales by category is Classic with total sales of $220,000.
 
 [![](https://github.com/OluwakemiOretade/Pizza-Sales-Dashboard/blob/main/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzA5ZTMyYmYtYzYxMS00MzVkLTk1ZTMtZmM5ZWQyNjM4Y2ExIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9)
 
-[![](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/3.%20Data%20Visualization/Product_Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection)
-
-![](Dashboard.png) 
 
 ## Conclusion
 The suggested seasonality period will be the month of July where we have the total sales of $72,000, though further investigation will reveal if there is a special event that occurs in that month. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
