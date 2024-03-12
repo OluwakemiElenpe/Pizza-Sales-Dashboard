@@ -1,4 +1,4 @@
-# Boston Pizza Sales Analysis
+# Gino Pizza Sales Analysis
 
 ![](Pizza.jpg)
 
